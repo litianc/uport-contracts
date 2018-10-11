@@ -8,5 +8,3 @@ node_modules
 # log
 *.log
 
-# build
-build/
